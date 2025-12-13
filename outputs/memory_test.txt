@@ -1,0 +1,9 @@
+User: What did we discuss about neural networks earlier?
+
+[Coordinator] Received query: What did we discuss about neural networks earlier?
+
+System:
+Feedforward Neural Networks
+Convolutional Neural Networks (CNNs)
+Recurrent Neural Networks (RNNs)
+Transformers

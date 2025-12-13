@@ -1,0 +1,15 @@
+User: Compare CNNs and RNNs and recommend one
+
+[Coordinator] Received query: Compare CNNs and RNNs and recommend one
+
+System:
+Analysis Summary:
+- CNNs are effective for spatial data such as images
+- RNNs are suitable for sequential and temporal data
+
+Key Trade-Offs:
+- CNNs offer faster training due to parallelism
+- RNNs handle sequence dependency but are slower
+
+Recommendation:
+CNNs are recommended for image-based tasks, while RNNs are better for sequence-based problems.

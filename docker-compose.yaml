@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  multi_agent_chat:
+    build: .
+    container_name: multi_agent_chat
+    stdin_open: true
+    tty: true

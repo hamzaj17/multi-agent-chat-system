@@ -1,0 +1,32 @@
+{
+  "neural networks": {
+    "facts": [
+      "Feedforward Neural Networks",
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "Transformers"
+    ],
+    "source": "Textbook + Lecture Notes",
+    "confidence": 0.85
+  },
+
+  "transformers": {
+    "facts": [
+      "Use self-attention instead of recurrence",
+      "Allow parallel processing",
+      "Require large memory and computation"
+    ],
+    "source": "Research Survey Papers",
+    "confidence": 0.9
+  },
+
+  "reinforcement learning": {
+    "facts": [
+      "Uses reward-based learning",
+      "Includes policy-based and value-based methods",
+      "Faces exploration vs exploitation challenge"
+    ],
+    "source": "Recent RL Papers",
+    "confidence": 0.88
+  }
+}
